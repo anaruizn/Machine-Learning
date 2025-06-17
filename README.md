@@ -4,7 +4,7 @@ Se aplican modelos de Machine Learning para predecir condiciones meteorológicas
 # 🧩 ¿Qué hace el proyecto?
 Este proyecto utiliza datos meteorológicos diarios para predecir la variable weather_code mediante un modelo de basado en Random Forest y otro en Neural Netwoks. 
 
-En el proyecto se divide en 5 secciones:
+El proyecto se divide en 5 secciones:
 
 * En la sección 1 se extraen los datos de las variables meteorológicas de Open-Meteo en https://open-meteo.com/. Para extraer los datos es necesario otorgar parámetros como la ubicación y el rango de tiempo que se desea.
 
